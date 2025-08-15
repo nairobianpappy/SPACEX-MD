@@ -1,5 +1,5 @@
 
-# 🌟 STAR XD
+# 🌟 SPACEX-MD
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Deploy Star XD in Minutes
+## 🚀 Deploy SPACEX-MD in Minutes
 
 > 🌟 **DEPLOYMENT & STEPS** 🌟
 
