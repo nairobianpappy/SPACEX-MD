@@ -143,7 +143,7 @@ _For further setup & guidance, click the button below🩹_
 <summary>💡 About Star XD</summary>
 
 
-Star XD is a fully-featured WhatsApp Multi-Device bot built on top of [Baileys](https://github.com/WhiskeySockets/Baileys). It’s designed to make group management easier, automate fun tasks, and integrate tools like Giphy for an enhanced messaging experience.
+SPACEX-MD is a fully-featured WhatsApp Multi-Device bot built on top of [Baileys](https://github.com/WhiskeySockets/Baileys). It’s designed to make group management easier, automate fun tasks, and integrate tools like Giphy for an enhanced messaging experience.
 
 Lightweight, modular, and easy to customize — Star XD is perfect for both casual users and advanced bot developers.
 
@@ -184,20 +184,3 @@ Lightweight, modular, and easy to customize — Star XD is perfect for both casu
     Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
 
 ---
-
-## 🌟 TOP CONTRIBUTIONS
-![](https://github-contributor-stats.vercel.app/api?username=XdKing2&limit=5&theme=black&combine_all_yearly_contributions=true)
-
-[![Malvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XdKing2&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-> **JOIN US**
-<div align="left">
-  <a href="https://t.me/malvintech">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="Join Telegram"/>
-  </a><br>
-  <a href="https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=darkgreen" alt="WHATSAPP"/>
-  </a>
-</div>
