@@ -1,13 +1,13 @@
 require('dotenv').config();
 
 const settings = {
-  packname: 'sᴛᴀʀ xᴅ',
-  author: 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ',
-  botName: 'sᴛᴀʀ xᴅ', //Your bot name
+  packname: 'SPACEX-MD',
+  author: 'KNOWN YUT',
+  botName: 'SPACEX-MD', //Your bot name
   version: '1.2.0',
-  botOwner: 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ', //Your name
+  botOwner: 'KNOWN YUT', //Your name
   imageUrl: 'https://i.ibb.co/rRg9wTZV/malvin-xd.jpg',    
-  ownerNumber: process.env.OWNER_NUMBER || '263714757857',
+  ownerNumber: process.env.OWNER_NUMBER || '254792949282',
   giphyApiKey: process.env.GIPHY_API_KEY || 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: 'public',
   description: 'This is a bot for managing group commands and automating tasks.',
