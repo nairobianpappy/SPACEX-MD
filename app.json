@@ -3,7 +3,7 @@
   "description": "A WhatsApp bot for managing group commands and automating tasks.",
   "repository": "https://github.com/XdKing2/star-xd",
   "logo": "https://i.ibb.co/rRg9wTZV/malvin-xd.jpg",
-  "keywords": ["nodejs", "whatsapp", "bot", "automation", "star-xd"],
+  "keywords": ["nodejs", "whatsapp", "bot", "automation", "SPACEX-MD"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -13,7 +13,7 @@
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Phone number of the bot owner (e.g., 263714757857).",
+      "description": "Phone number of the bot owner (e.g., 254792949282).",
       "required": false,
       "value": "254792949282"
     },
